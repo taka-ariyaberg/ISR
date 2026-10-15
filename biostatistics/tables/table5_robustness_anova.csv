@@ -1,0 +1,22 @@
+Outcome,Term,Primary (n = 64),Robust HC3 (n = 64),Strict exclusion (n = 58),Holm over 21 tests,Verdict
+Core CBF (probe 1),Strain,< 0.001 · clear,< 0.001 · clear,< 0.001 · clear,< 0.001 · clear,unchanged
+Core CBF (probe 1),Sex,0.630 · not significant,0.652 · not significant,0.707 · not significant,1.000 · not significant,unchanged
+Core CBF (probe 1),Treatment,0.151 · not significant,0.179 · not significant,0.137 · not significant,1.000 · not significant,unchanged
+Core CBF (probe 1),Strain × Sex,0.071 · not significant,0.090 · not significant,0.064 · not significant,0.778 · not significant,unchanged
+Core CBF (probe 1),Strain × Treatment,0.923 · not significant,0.928 · not significant,1.000 · not significant,1.000 · not significant,unchanged
+Core CBF (probe 1),Sex × Treatment,0.336 · not significant,0.368 · not significant,0.472 · not significant,1.000 · not significant,unchanged
+Core CBF (probe 1),Strain × Sex × Treatment,0.441 · not significant,0.471 · not significant,0.595 · not significant,1.000 · not significant,unchanged
+Collateral CBF (probe 2),Strain,< 0.001 · clear,< 0.001 · clear,< 0.001 · clear,< 0.001 · clear,unchanged
+Collateral CBF (probe 2),Sex,0.453 · not significant,0.483 · not significant,0.322 · not significant,1.000 · not significant,unchanged
+Collateral CBF (probe 2),Treatment,< 0.001 · clear,< 0.001 · clear,< 0.001 · clear,< 0.001 · clear,unchanged
+Collateral CBF (probe 2),Strain × Sex,0.007 · clear,0.011 · clear,0.025 · suggestive,0.085 · suggestive,changed
+Collateral CBF (probe 2),Strain × Treatment,0.003 · clear,0.005 · clear,0.005 · clear,0.045 · clear,unchanged
+Collateral CBF (probe 2),Sex × Treatment,0.487 · not significant,0.516 · not significant,0.564 · not significant,1.000 · not significant,unchanged
+Collateral CBF (probe 2),Strain × Sex × Treatment,0.390 · not significant,0.421 · not significant,0.390 · not significant,1.000 · not significant,unchanged
+Infarct volume,Strain,< 0.001 · clear,< 0.001 · clear,< 0.001 · clear,< 0.001 · clear,unchanged
+Infarct volume,Sex,0.115 · not significant,0.140 · not significant,0.100 · not significant,1.000 · not significant,unchanged
+Infarct volume,Treatment,< 0.001 · clear,< 0.001 · clear,< 0.001 · clear,< 0.001 · clear,unchanged
+Infarct volume,Strain × Sex,0.004 · clear,0.007 · clear,0.016 · suggestive,0.054 · suggestive,changed
+Infarct volume,Strain × Treatment,0.003 · clear,0.005 · clear,0.004 · clear,0.045 · clear,unchanged
+Infarct volume,Sex × Treatment,0.163 · not significant,0.192 · not significant,0.189 · not significant,1.000 · not significant,unchanged
+Infarct volume,Strain × Sex × Treatment,0.020 · suggestive,0.029 · suggestive,0.031 · suggestive,0.243 · suggestive,unchanged

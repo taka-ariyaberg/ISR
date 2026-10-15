@@ -1,0 +1,25 @@
+# Conda environment for the statistical analysis in this folder.
+#
+#   conda env create -f environment.yml
+#   conda activate ISR
+#   python -m ipykernel install --user --name ISR --display-name "Python (ISR)"   # optional: for JupyterLab or VS Code
+#
+# Every package the analysis imports is pinned to the version used for statistical_analysis.ipynb,
+# so every run gives the same numbers. The file resolves on macOS (arm64), Windows and Linux.
+name: ISR
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.14
+  - numpy=2.5.3
+  - pandas=3.0.6
+  - scipy=1.18.1
+  - statsmodels=0.15.0
+  - patsy=1.0.3            # the formula engine statsmodels uses for the models
+  - matplotlib=3.11.2
+  - openpyxl=3.1.5
+  - jupyterlab=4.6.4
+  - ipykernel=7.3.0
+  - nbconvert=7.17.1
+  - nbclient=0.11.0
+  - nbformat=5.11.1

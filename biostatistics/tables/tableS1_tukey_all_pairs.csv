@@ -1,0 +1,29 @@
+Pair (row − column),Groups,Core CBF (probe 1): difference,Core CBF (probe 1): p,Collateral CBF (probe 2): difference,Collateral CBF (probe 2): p,Infarct volume: difference,Infarct volume: p
+2 − 1,Wistar · Male · Rapamycin  vs  Wistar · Male · Vehicle,−0.2,1.000,+10.5,< 0.001,−31.9,< 0.001
+3 − 1,Wistar · Female · Vehicle  vs  Wistar · Male · Vehicle,−2.0,0.776,−2.1,0.979,−5.5,0.930
+3 − 2,Wistar · Female · Vehicle  vs  Wistar · Male · Rapamycin,−1.8,0.872,−12.6,< 0.001,+26.4,< 0.001
+4 − 1,Wistar · Female · Rapamycin  vs  Wistar · Male · Vehicle,+0.0,1.000,+8.0,0.015,−19.9,0.002
+4 − 2,Wistar · Female · Rapamycin  vs  Wistar · Male · Rapamycin,+0.2,1.000,−2.5,0.950,+12.0,0.175
+4 − 3,Wistar · Female · Rapamycin  vs  Wistar · Female · Vehicle,+2.0,0.776,+10.1,< 0.001,−14.4,0.053
+5 − 1,SHR · Male · Vehicle  vs  Wistar · Male · Vehicle,−7.0,< 0.001,−9.1,0.003,+4.6,0.972
+5 − 2,SHR · Male · Vehicle  vs  Wistar · Male · Rapamycin,−6.8,< 0.001,−19.6,< 0.001,+36.5,< 0.001
+5 − 3,SHR · Male · Vehicle  vs  Wistar · Female · Vehicle,−5.0,0.006,−7.0,0.052,+10.1,0.368
+5 − 4,SHR · Male · Vehicle  vs  Wistar · Female · Rapamycin,−7.0,< 0.001,−17.1,< 0.001,+24.5,< 0.001
+6 − 1,SHR · Male · Rapamycin  vs  Wistar · Male · Vehicle,−6.1,< 0.001,−7.5,0.029,−1.9,1.000
+6 − 2,SHR · Male · Rapamycin  vs  Wistar · Male · Rapamycin,−5.9,< 0.001,−18.0,< 0.001,+30.0,< 0.001
+6 − 3,SHR · Male · Rapamycin  vs  Wistar · Female · Vehicle,−4.1,0.044,−5.4,0.259,+3.6,0.993
+6 − 4,SHR · Male · Rapamycin  vs  Wistar · Female · Rapamycin,−6.1,< 0.001,−15.5,< 0.001,+18.0,0.006
+6 − 5,SHR · Male · Rapamycin  vs  SHR · Male · Vehicle,+0.9,0.997,+1.6,0.996,−6.5,0.848
+7 − 1,SHR · Female · Vehicle  vs  Wistar · Male · Vehicle,−5.6,0.001,−6.9,0.060,−3.8,0.992
+7 − 2,SHR · Female · Vehicle  vs  Wistar · Male · Rapamycin,−5.4,0.003,−17.4,< 0.001,+28.1,< 0.001
+7 − 3,SHR · Female · Vehicle  vs  Wistar · Female · Vehicle,−3.6,0.113,−4.8,0.412,+1.8,1.000
+7 − 4,SHR · Female · Vehicle  vs  Wistar · Female · Rapamycin,−5.6,0.001,−14.9,< 0.001,+16.1,0.019
+7 − 5,SHR · Female · Vehicle  vs  SHR · Male · Vehicle,+1.4,0.961,+2.2,0.972,−8.4,0.610
+7 − 6,SHR · Female · Vehicle  vs  SHR · Male · Rapamycin,+0.5,1.000,+0.6,1.000,−1.9,1.000
+8 − 1,SHR · Female · Rapamycin  vs  Wistar · Male · Vehicle,−4.5,0.020,−1.8,0.993,−14.8,0.043
+8 − 2,SHR · Female · Rapamycin  vs  Wistar · Male · Rapamycin,−4.2,0.034,−12.2,< 0.001,+17.1,0.010
+8 − 3,SHR · Female · Rapamycin  vs  Wistar · Female · Vehicle,−2.5,0.531,+0.4,1.000,−9.2,0.485
+8 − 4,SHR · Female · Rapamycin  vs  Wistar · Female · Rapamycin,−4.5,0.020,−9.8,0.001,+5.1,0.951
+8 − 5,SHR · Female · Rapamycin  vs  SHR · Male · Vehicle,+2.5,0.531,+7.4,0.034,−19.4,0.002
+8 − 6,SHR · Female · Rapamycin  vs  SHR · Male · Rapamycin,+1.6,0.909,+5.8,0.188,−12.9,0.116
+8 − 7,SHR · Female · Rapamycin  vs  SHR · Female · Vehicle,+1.1,0.987,+5.1,0.315,−11.0,0.267

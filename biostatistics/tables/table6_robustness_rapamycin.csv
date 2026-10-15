@@ -1,0 +1,19 @@
+Outcome,Comparison,"Primary: difference, p",HC3 (group-specific variances): p,"Strict exclusion: difference, p",Verdict
+Core CBF (probe 1),Wistar · both sexes,"+0.9, p 0.566",p 0.469,"+1.0, p 0.530",unchanged
+Core CBF (probe 1),SHR · both sexes,"+1.0, p 0.478",p 0.616,"+1.0, p 0.457",unchanged
+Core CBF (probe 1),Wistar · Male,"−0.2, p 0.999",p 0.999,"+0.2, p 1.000",unchanged
+Core CBF (probe 1),Wistar · Female,"+2.0, p 0.418",p 0.284,"+1.8, p 0.577",unchanged
+Core CBF (probe 1),SHR · Male,"+0.9, p 0.938",p 0.973,"+0.9, p 0.931",unchanged
+Core CBF (probe 1),SHR · Female,"+1.1, p 0.858",p 0.925,"+1.1, p 0.845",unchanged
+Collateral CBF (probe 2),Wistar · both sexes,"+10.3, p < 0.001",p < 0.001,"+10.4, p < 0.001",unchanged
+Collateral CBF (probe 2),SHR · both sexes,"+3.4, p 0.073",p 0.148,"+3.4, p 0.082",unchanged
+Collateral CBF (probe 2),Wistar · Male,"+10.5, p < 0.001",p < 0.001,"+10.8, p < 0.001",unchanged
+Collateral CBF (probe 2),Wistar · Female,"+10.1, p < 0.001",p < 0.001,"+10.1, p < 0.001",unchanged
+Collateral CBF (probe 2),SHR · Male,"+1.6, p 0.921",p 0.972,"+1.6, p 0.927",unchanged
+Collateral CBF (probe 2),SHR · Female,"+5.1, p 0.099",p 0.101,"+5.1, p 0.112",unchanged
+Infarct volume,Wistar · both sexes,"−23.1, p < 0.001",p < 0.001,"−24.2, p < 0.001",unchanged
+Infarct volume,SHR · both sexes,"−8.8, p 0.019",p 0.049,"−8.8, p 0.027",unchanged
+Infarct volume,Wistar · Male,"−31.9, p < 0.001",p < 0.001,"−33.3, p < 0.001",unchanged
+Infarct volume,Wistar · Female,"−14.4, p 0.011",p 0.031,"−15.2, p 0.027",unchanged
+Infarct volume,SHR · Male,"−6.5, p 0.510",p 0.673,"−6.5, p 0.557",unchanged
+Infarct volume,SHR · Female,"−11.0, p 0.079",p 0.146,"−11.0, p 0.104",unchanged
